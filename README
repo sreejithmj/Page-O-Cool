@@ -15,6 +15,6 @@
 
 :: Introduction ::
 ::::::::::::::::::
-Now-a-days all users need the fastest pages. Suppose you have a search page. When you have a lot of search results, your page will be late to load. To prevent this you can limit your results per page. When you have more pages, you need a very efficient pagination system. Here is the best solution, Page-O-Cool.
 
-As the name itself sounds, it will make your pages very cool in looks and efficient pagination. Just Configure a few things, and you are ready to serve...
+Page-O-Cool is an advanced pagination system developed in PHP, which allows you to setup a hassle free pagination system for your php webpages.
+Configure a few things, and you are ready to serve...
